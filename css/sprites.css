@@ -1,0 +1,46 @@
+
+#megan {
+    background: url('./img/sprite_megaman.png') 0 0;
+}
+
+
+.megaman-peson {
+    width:  33px;
+    height: 40px;
+    position: absolute;
+    margin-left: -8px;
+    margin-top: -28px;
+    border: 1px solid #c0f5c0;
+}
+
+.custom-megaman-peson-left-lv1{
+    margin-left: -11px !important;;
+}
+.custom-megaman-peson-left-lv2 {
+    width: 22px !important;
+    margin-left: -3px;
+}
+.custom-megaman-peson-left-lv3 {
+    width: 32px !important;
+    margin-left: -9px;
+}
+.custom-megaman-peson-left-lv4 {
+    width: 34px !important;
+}
+.custom-megaman-peson-left-lv5 {
+    width: 28px !important;
+    margin-left: -6px;
+}
+.custom-megaman-peson-left-lv6 {
+    width: 23px !important;
+    margin-left: -4px;
+}
+
+
+.invertX {
+    transform: scaleX(-1);
+}
+
+.invertY {
+    transform: scaleY(-1);
+}
